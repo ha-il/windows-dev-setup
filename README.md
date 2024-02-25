@@ -177,7 +177,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 - 터미널 열어서 powerlevel10k 설정 마법사 실행
   - 안내문 따라서 진행하면 됨.
 
-## 13. 디렉터리 이름의 배경색 지우기()
+## 13. 디렉터리 이름의 배경색 지우기
 
 - `.zshrc` 파일 수정
   - `.zshrc` 파일 열기
@@ -242,6 +242,7 @@ node -v # 현재 사용 중인 node 버전 표시
   - ESLint
 
 - File > Preferences > settings > Editor:Format On Save 활성화
+- File > Preferences > settings > Editor:Default Formatter에서 Prettier 선택
 
 ## 17. Git and Github CLI 설치
 
